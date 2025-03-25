@@ -6,8 +6,8 @@
 <span align="center">Hi 👋, I'm <b>Mohammad Ashiqur Rahman</b></span>
 <span align="center">A passionate Programmer from Bangladesh</span>
 
-- 👨‍💻 All of my projects are available at **ashiqur.netlify.app** - 📝 I
-regularly write articles on **brainstemac.blogspot.com** - 📫 How to reach me
+-  All of my projects are available at **ashiqur.netlify.app** - I
+regularly write articles on **brainstemac.blogspot.com** - How to reach me
 **m.ashiqur.cse@gmail.com**
 
 <span align="left">Connect with me:</span>
