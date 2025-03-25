@@ -120,30 +120,30 @@ regularly write articles on **brainstemac.blogspot.com** - How to reach me
       height="40"
     />
   </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+  <a href="#" target="_blank" rel="noreferrer">
     <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
-      alt="html5"
+      src="https://raw.githubusercontent.com/leaderiT-Bangladesh/Icon/refs/heads/main/tailwind-css.svg"
+      alt="tailwind-css"
       width="40"
       height="40"
     />
   </a>
   <a
-    href="https://www.adobe.com/in/products/illustrator.html"
+    href="#"
     target="_blank"
     rel="noreferrer"
   >
     <img
-      src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg"
+      src="https://raw.githubusercontent.com/leaderiT-Bangladesh/Icon/refs/heads/main/illustrator.svg"
       alt="illustrator"
       width="40"
       height="40"
     />
   </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
+  <a href="#" target="_blank" rel="noreferrer">
     <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"
-      alt="java"
+      src="https://raw.githubusercontent.com/leaderiT-Bangladesh/Icon/refs/heads/main/photoshop.svg"
+      alt="Photoshop"
       width="40"
       height="40"
     />
